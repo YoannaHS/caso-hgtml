@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  font-family: monospace;
+}
+hi {
+  outline: 1px solid green;
+}
+ul {
+  outline: 1px solid yellow;
+  width: 250px;
+  display: inline-block;
+  border: 1px solid red;
+  padding: 0;
+}
+.enlace {
+  text-decoration: none;
+  text-align: center;
+  color: green;
+  border: 1px solid blue;
+}
+li {
+  border: yellow;
+  outline: 1px solid blue;
+}
